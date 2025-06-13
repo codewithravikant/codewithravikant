@@ -1,0 +1,172 @@
+/* ---------------------------------
+   🌐 Base Page Styling
+---------------------------------- */
+body {
+    font-family: 'Montserrat', sans-serif;  /* Clean, modern font */
+    background-color: #91c0e9;              /* Soft background tone */
+    color: #333;                            /* Dark text for contrast */
+    margin: 0;                              /* Remove default margin */
+    padding: 0;                             /* Remove default padding */
+    font-size: 16px;                        /* Base font size */
+}
+
+/* ---------------------------------
+   🧱 Main Container Styling
+---------------------------------- */
+.container {
+    width: 80%;                             /* Container width */
+    margin: 0 auto;                         /* Center horizontally */
+    padding: 20px;                          /* Inner padding */
+    background-color: #ebe992;  /* White background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+    border-radius: 10px;                   /* Rounded corners */
+}
+
+/* ---------------------------------
+   📝 Header Styles
+---------------------------------- */
+h1 {
+    font-family: 'Source Code Pro', monospace; /* Monospaced for style */
+    font-size: 2rem;                            /* Large font size */
+    text-align: center;                         /* Centered heading */
+    color: #4CAF50;                             /* Green color theme */
+}
+
+/* ---------------------------------
+   📦 Status Box (top-right corner)
+---------------------------------- */
+.status-box {
+    position: absolute;                        /* Positioned in corner */
+    top: 20px;
+    right: 20px;
+    background-color: #fff;                    /* White background */
+    padding: 5px 10px;                         /* Inner spacing */
+    border-radius: 5px;                        /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);   /* Soft shadow */
+    font-size: 1rem;                           /* Font size */
+    font-weight: bold;                         /* Bold text */
+}
+
+/* Text inside status box */
+.status-code {
+    color: #070000;                              /* Default white (will override) */
+    padding: 5px;                             /* Padding around text */
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+/* Status background colors */
+.status-success { background-color: #4CAF50; } /* Green for success */
+.status-error   { background-color: #D32F2F; } /* Red for error */
+
+/* Text-only fallback colors (if needed) */
+.status-success { color: rgb(0, 3, 0); }
+.status-error   { color: rgb(16, 1, 1); }
+.status-initial { color: rgb(7, 0, 0); }
+
+/* ---------------------------------
+   🧾 Form Styling
+---------------------------------- */
+form {
+    display: flex;                  /* Stack elements vertically */
+    flex-direction: column;
+    margin: 0 auto;
+    width: 60%;                     /* Medium width form */
+}
+
+/* ---------------------------------
+   ✍️ Textarea Input
+---------------------------------- */
+textarea {
+    width: 100%;                    /* Full width */
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: both;                   /* User can resize both directions */
+    min-height: 100px;              /* Minimum height */
+    font-family: 'Source Code Pro', monospace; /* ASCII-style font */
+}
+
+/* ---------------------------------
+   🔘 Radio Button Styling
+---------------------------------- */
+.radio-group {
+    margin: 10px 0;
+}
+
+.radio-group label {
+    font-weight: 600;               /* Bolder labels */
+    color: #4CAF50;                 /* Themed color */
+}
+
+.radio-group input[type="radio"] {
+    margin-right: 10px;            /* Space between radio and label */
+}
+
+/* ---------------------------------
+   ☑️ Checkbox Styling (Multiline)
+---------------------------------- */
+.form-controls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 10px;
+}
+
+.checkbox-inline {
+    display: flex;
+    align-items: center;
+    gap: 5px;                      /* Space between checkbox and label */
+}
+
+/* ---------------------------------
+   🔘 Submit Button Styling
+---------------------------------- */
+button {
+    background-color: #4CAF50;      /* Primary green */
+    color: white;                   /* White text */
+    border: none;
+    padding: 10px;
+    font-size: 1rem;
+    cursor: pointer;                /* Pointer cursor on hover */
+    border-radius: 4px;
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+button:hover {
+    background-color: #45a049;      /* Slightly darker on hover */
+}
+
+/* ---------------------------------
+   📤 Output / Result Box
+---------------------------------- */
+.result,
+.error {
+    background-color: #f8f8f8;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+/* Preformatted ASCII result text */
+.result pre {
+    font-family: 'Source Code Pro', monospace;
+    white-space: pre-wrap;         /* Preserve new lines */
+    word-wrap: break-word;         /* Wrap long words */
+    color: #333;
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+/* ---------------------------------
+   ⚠️ Error Message Styling
+---------------------------------- */
+.error {
+    color: #D32F2F;                 /* Red text */
+    background-color: #FFEBEE;     /* Light red background */
+}

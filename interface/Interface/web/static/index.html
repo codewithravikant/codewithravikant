@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art Decoder & Encoder</title>
+
+    <!-- Google Fonts for aesthetics -->
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;600;900&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+
+    <!-- External CSS file -->
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <!-- Main container -->
+    <div class="container">
+
+        <!-- ✅ Status box rendered without JavaScript -->
+        <div class="status-box">
+            <span 
+                class="status-code 
+                    {{if eq .StatusCode 200}}status-initial{{end}} 
+                    {{if eq .StatusCode 202}}status-success{{end}} 
+                    {{if eq .StatusCode 400}}status-error{{end}}">
+                {{.StatusCode}}
+            </span>
+        </div>
+
+        <!-- Main title -->
+        <h1>Art Decoder & Encoder</h1>
+
+        <!-- Form submission to /decoder -->
+        <form action="/decoder" method="POST">
+
+            <!-- Input area for encoded/decoded text -->
+            <label for="text">Enter encoded or decoded text:</label>
+            <textarea id="text" name="text" rows="4" cols="50" required>{{.Text}}</textarea>
+
+            <!-- Radio selection: decode or encode -->
+            <div class="radio-group">
+                <label>
+                    <input type="radio" name="mode" value="decode" {{if eq .Mode "decode"}}checked{{end}}> Decode
+                </label>
+                <label>
+                    <input type="radio" name="mode" value="encode" {{if eq .Mode "encode"}}checked{{end}}> Encode
+                </label>
+            </div>
+
+            <!-- 📌 Fixed checkbox alignment using flexbox style -->
+            <div class="multiline-checkbox" style="display: flex; align-items: center; gap: 0.4rem; margin-top: 0.5rem;">
+                <input type="checkbox" id="multiline" name="multiline" value="true" {{if .Multiline}}checked{{end}}>
+                <label for="multiline">Multiline</label>
+            </div>
+
+            <!-- Submit the form -->
+            <button type="submit">Submit</button>
+        </form>
+
+        <!-- Output area: either error or decoded result -->
+        {{if .Error}}
+            <div class="error">{{.Error}}</div>
+        {{else if .Result}}
+            <div class="result">
+                <pre>{{.Result}}</pre>
+            </div>
+        {{end}}
+
+    </div>
+</body>
+</html>
