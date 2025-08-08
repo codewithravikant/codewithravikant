@@ -1,75 +1,43 @@
-# 👨‍💻 Ravikant Pandit | Software Engineer
+# Hi there! 👋 I'm Ravikant.
 
-<div align="center">
-  <img src="https://readme-typing-svg.helbling.tech/?lines=Software+Engineer;Go+%7C+JavaScript+%7C+Python;Backend+Development+%7C+Web+Development;Open+to+Opportunities&center=true&width=380&height=50">
-</div>
+Welcome to my GitHub profile! I'm passionate about coding, learning, and building efficient, scalable applications that solve real-world problems. Here you'll find a collection of projects and repositories that reflect my journey in the exciting world of programming.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ravikant-pandit-a8621b58/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ravikant.pandit@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/codewithravikant">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
+## About Me
 
-## 🚀 About Me
+* 🏫 **former student** & **coding enthusiast**
+* 🐹 started with Go, now building with JavaScript & Python too
+* 📚 studying at **Piscine Helsinki** — intensive coding bootcamp graduate
+* 🚀 currently learning **advanced Go patterns** & **cloud technologies**
+* 🌐 exploring **web development** and **system architecture**
+* 🎯 growing in the coding world with a focus on **backend development**
 
-I'm a **Software Engineer** based in Helsinki, Finland, specializing in **backend development** and **web applications**. With a strong foundation in Go, JavaScript, and Python, I build efficient, scalable solutions that solve real-world problems.
-
-### 🎯 **Career Focus**
-- **Backend Development:** Go microservices, REST APIs, database design
-- **Web Development:** Full-stack applications, responsive UIs
-- **DevOps:** Docker, CI/CD, cloud deployment
-- **Problem Solving:** Algorithm optimization, system design
-
-### 🔥 **Key Strengths**
-- **System Design:** Architecting scalable applications
-- **Code Quality:** Clean, maintainable, well-documented code
-- **Performance:** Optimizing applications for speed and efficiency
-- **Learning:** Rapidly adapting to new technologies and frameworks
-
-## 🛠️ Technical Skills
-
-### 💻 **Programming Languages**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 **Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
-
-### 🛠️ **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 📊 GitHub Analytics & Achievements
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithravikant&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithravikant&theme=radical" alt="GitHub Streak">
 </div>
 
-### 🏆 **Key Metrics**
-- **Repositories:** 10+ projects demonstrating diverse technical skills
-- **Stars Earned:** 4+ stars across projects
-- **Languages:** Go, JavaScript, Python, C, HTML/CSS
-- **Commit Streak:** Consistent coding activity
-- **Profile Views:** Growing professional visibility
+## Achievements
 
-## 🎯 Featured Projects
+Achievement: Pull Shark
+
+## 🛠️ Tech Stack
+
+* **Programming Languages:** Go, JavaScript, Python, C
+* **Web Development:** HTML/CSS, REST APIs, Responsive Design
+* **Backend Frameworks:** Go HTTP Server, Node.js (basic)
+* **Database & Storage:** SQL, JSON, File-based storage
+* **Version Control:** Git, GitHub
+* **Development Tools:** VS Code, Docker (learning)
+* **Operating Systems:** Linux, Ubuntu, macOS
+* **Cloud & DevOps:** Docker (learning), CI/CD (learning)
+
+## Projects
+
+Soon I'll add more of my projects 💫 now my GitHub profile is growing - working on it!
+
+🔒 Some of my repositories are private due to school policy — happy to share them on request!
 
 ### 🎨 **Art Decoder & Encoder** | Go Backend Application
 A sophisticated text compression application demonstrating advanced Go programming concepts and system design.
@@ -143,107 +111,29 @@ An interactive JavaScript-based web application showcasing modern web developmen
 - **Features:** Interactive functionality, modern web practices
 - **Complexity:** Medium - demonstrates JavaScript proficiency
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithravikant&theme=radical&hide_border=true" alt="Activity Graph">
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithravikant&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
-
-## 📊 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithravikant&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
-## 🔥 Recent Activity
-
-| Repository | Description | Language | Stars | Forks |
-|------------|-------------|----------|-------|-------|
-| [Staions_path](https://github.com/codewithravikant/Staions_path) | No description | Go | 1 | 0 |
-| [art-decoder](https://github.com/codewithravikant/art-decoder) | This is a command-line tool to help you convert te... | Go | 2 | 0 |
-| [pythonLessons](https://github.com/codewithravikant/pythonLessons) | Source code from the online python course | N/A | 0 | 0 |
-| [Ravikant-CV](https://github.com/codewithravikant/Ravikant-CV) | No description | CSS | 1 | 0 |
-| [golang_helsinki](https://github.com/codewithravikant/golang_helsinki) | Leraning Go with Kood sisu | N/A | 0 | 0 |
 
 
-## 💼 Professional Experience
 
-### 🎓 **Education & Training**
-- **Piscine Helsinki** | 4-week Intensive Coding Bootcamp
-  - Advanced C programming and systems development
-  - Algorithm optimization and problem-solving
-  - Collaborative coding in high-pressure environment
+## 🌟 Core Skills
 
-### 🚀 **Current Focus**
-- **Backend Development:** Building scalable Go microservices
-- **Web Development:** Creating responsive, modern web applications
-- **System Design:** Architecting efficient, maintainable solutions
-- **Continuous Learning:** Staying current with latest technologies
+* 🚀 **Fast learner** with a strong curiosity for new tools, languages, and ideas
+* 🤝 **Collaborative team player** who enjoys supporting others and building shared solutions
+* 🗣️ **Strong communication skills** — written and verbal
+* 🧩 **Comfortable working** in agile, remote, and cross-functional environments
+* 🧼 **Passionate about clean code**, reproducibility, and developer experience
+* 🧠 **Builder mindset** — always thinking about systems, feedback loops, and user experience
+* 🌍 **Languages:** 🇬🇧 English (fluent), 🇫🇮 Finnish (basic — currently learning)
+* 🎯 **Problem solver** — love tackling complex challenges and finding elegant solutions
+* 🐸 **Certified meme enthusiast** — keeping the team laughing is also a skill, right?
 
-## 🤝 Let's Connect
+## Let's Connect!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ravikant-pandit-a8621b58/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ravikant.pandit@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/codewithravikant">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
+Feel free to explore my repositories, contribute, or reach out for collaboration! I'm always eager to learn, share ideas, and connect with fellow coding enthusiasts.
 
-### 📧 **Contact Information**
-- **LinkedIn:** [Ravikant Pandit](https://www.linkedin.com/in/ravikant-pandit-a8621b58/)
-- **Email:** ravikant.pandit@example.com *(Update with your actual email)*
-- **Location:** Helsinki, Finland
-- **Availability:** Open to new opportunities
+[LinkedIn](https://www.linkedin.com/in/ravikant-pandit-a8621b58/) | e-mail me: ravikant.pandit@example.com *(Update with your actual email)*
 
-## 🎯 **Professional Summary**
+Looking forward to the journey ahead! 🚀
 
-**Software Engineer** with expertise in **backend development** and **web applications**. Proven track record of building efficient, scalable solutions using Go, JavaScript, and Python. Strong foundation in system design, algorithm optimization, and clean code practices. Completed intensive coding bootcamp demonstrating advanced programming skills under pressure.
 
-### 🎯 **Career Objectives**
-- **Backend Development:** Building robust, scalable microservices
-- **Full-Stack Development:** Creating end-to-end web applications
-- **System Architecture:** Designing efficient, maintainable systems
-- **Team Collaboration:** Contributing to high-performing development teams
 
-## 🚀 **Learning Journey & Future Goals**
 
-### 📚 **Currently Learning**
-- **Advanced Go:** Concurrency patterns, performance optimization, microservices
-- **Cloud Technologies:** AWS, Docker, Kubernetes deployment
-- **Frontend Frameworks:** React, Vue.js for modern web development
-- **Database Design:** SQL and NoSQL database optimization
-- **DevOps:** CI/CD pipelines, monitoring, and infrastructure as code
-
-### 🎯 **Career Goals**
-- **Short-term:** Secure a backend/full-stack developer position
-- **Medium-term:** Lead technical projects and mentor junior developers
-- **Long-term:** Architect large-scale systems and contribute to open source
-
-### 💡 **Areas of Interest**
-- **Backend Development:** Building scalable APIs and microservices
-- **System Design:** Creating efficient, maintainable architectures
-- **Performance Optimization:** Making applications faster and more efficient
-- **Open Source:** Contributing to meaningful projects
-
-## 📅 Daily Update
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Last_Updated-2025--08--08-blue?style=for-the-badge" alt="Last Updated">
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithravikant&style=flat-square&color=blue" alt="Profile Views">
-</div>
