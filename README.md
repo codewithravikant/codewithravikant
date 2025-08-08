@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 
 ## About Me
 
-* 🏫 **former student** & **coding enthusiast**
+* 🏫 **former student** of **[kood/Sisu](https://koodsisu.fi/)** — 24-month intensive coding program graduate
 * 🐹 started with Go, now building with JavaScript & Python too
-* 📚 studying at **Piscine Helsinki** — intensive coding bootcamp graduate
+* 📚 completed **Piscine Helsinki** — intensive coding bootcamp graduate
 * 🚀 currently learning **advanced Go patterns** & **cloud technologies**
 * 🌐 exploring **web development** and **system architecture**
 * 🎯 growing in the coding world with a focus on **backend development**
@@ -24,20 +24,23 @@ Achievement: Pull Shark
 
 ## 🛠️ Tech Stack
 
-* **Programming Languages:** Go, JavaScript, Python, C
-* **Web Development:** HTML/CSS, REST APIs, Responsive Design
-* **Backend Frameworks:** Go HTTP Server, Node.js (basic)
-* **Database & Storage:** SQL, JSON, File-based storage
-* **Version Control:** Git, GitHub
-* **Development Tools:** VS Code, Docker (learning)
+* **Programming Languages:** Go, JavaScript, Python, C, TypeScript
+* **Web Development:** HTML/CSS, REST APIs, Responsive Design, React.js
+* **Backend Frameworks:** Go HTTP Server, Node.js, Express.js
+* **Database & Storage:** SQL, PostgreSQL, MongoDB, JSON, File-based storage
+* **Version Control:** Git, GitHub, Collaborative development
+* **Development Tools:** VS Code, Docker, Unix command-line tools
 * **Operating Systems:** Linux, Ubuntu, macOS
-* **Cloud & DevOps:** Docker (learning), CI/CD (learning)
+* **Cloud & DevOps:** Docker, CI/CD, Cloud deployment (learning)
+* **Specializations:** AI, Cyber Security, Blockchain (kood/Sisu curriculum)
 
 ## Projects
 
 Soon I'll add more of my projects 💫 now my GitHub profile is growing - working on it!
 
 🔒 Some of my repositories are private due to school policy — happy to share them on request!
+
+*Note: Graduated from [kood/Sisu](https://koodsisu.fi/) 24-month intensive coding program, specializing in full-stack development and modern web technologies.*
 
 ### 🎨 **Art Decoder & Encoder** | Go Backend Application
 A sophisticated text compression application demonstrating advanced Go programming concepts and system design.
@@ -124,6 +127,7 @@ An interactive JavaScript-based web application showcasing modern web developmen
 * 🧠 **Builder mindset** — always thinking about systems, feedback loops, and user experience
 * 🌍 **Languages:** 🇬🇧 English (fluent), 🇫🇮 Finnish (basic — currently learning)
 * 🎯 **Problem solver** — love tackling complex challenges and finding elegant solutions
+* 🎓 **kood/Sisu graduate** — 24-month intensive coding program with real-world project experience
 * 🐸 **Certified meme enthusiast** — keeping the team laughing is also a skill, right?
 
 ## Let's Connect!
