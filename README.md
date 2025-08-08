@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithravikant&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithravikant&theme=radical" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=codewithravikant&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithravikant&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ## Achievements
