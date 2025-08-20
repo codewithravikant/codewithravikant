@@ -96,7 +96,7 @@ A fun and interactive JavaScript game where you can create characters and "jail"
 
 **Repository:** [locked-alphabet](https://github.com/codewithravikant/locked-alphabet)
 
-### **Art Decoder & Encoder** | Go Backend Application
+### **kukaseone** | Go Backend Application
 A sophisticated text compression application demonstrating advanced Go programming concepts and system design.
 
 **Key Achievements:**
@@ -119,7 +119,7 @@ A sophisticated text compression application demonstrating advanced Go programmi
 - User interface design
 - System architecture principles
 
-**Repository:** [Art Decoder & Encoder](https://github.com/codewithravikant/Art-Decoder-Encoder)
+**Repository:** [kukaseone](https://github.com/codewithravikant/kukaseone)
 
 ## Core Skills
 
