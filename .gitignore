@@ -3,6 +3,16 @@ SETUP_INSTRUCTIONS.md
 PROFILE_README.md
 JOB_HUNTING_GUIDE.md
 PROJECTS.md
+EXAMPLE_DATA.md
+NETWORK_DEPLOYMENT.md
+
+# Internal documentation in project folders
+to be update/**/*.md
+
+# Project folders (separate repositories)
+alpha-jail-project/
+racetrack-project/
+ts-sprint-project/
 
 # Node modules
 node_modules/
