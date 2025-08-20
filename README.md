@@ -96,30 +96,31 @@ A fun and interactive JavaScript game where you can create characters and "jail"
 
 **Repository:** [locked-alphabet](https://github.com/codewithravikant/locked-alphabet)
 
-### **kukaseone** | Go Backend Application
-A sophisticated text compression application demonstrating advanced Go programming concepts and system design.
+### **kukaseon** | Full-Stack Web Application
+A modern full-stack web application built with React frontend and Node.js backend, demonstrating full-stack development skills and Docker containerization.
 
-**Key Achievements:**
-- **Dual Interface:** Built both CLI and web interfaces for maximum usability
-- **Custom Algorithm:** Developed proprietary encoding/decoding logic
-- **Performance Optimization:** Efficient text processing with Go's concurrency features
-- **Cross-platform:** Works seamlessly on Linux, macOS, and Windows
+**Key Features:**
+- **Full-Stack Architecture:** Separate frontend and backend with clear separation of concerns
+- **Modern Frontend:** React-based user interface with responsive design
+- **Backend API:** Node.js server providing robust backend services
+- **Containerization:** Docker and Docker Compose for easy deployment and development
+- **Profile Project:** Showcases full-stack development capabilities
 
 **Technical Implementation:**
-- **Go Backend:** HTTP server with custom encoding algorithms
-- **Web Interface:** HTML/CSS/JavaScript frontend with real-time processing
-- **CLI Tools:** Command-line interface for batch processing
-- **File Handling:** Support for various text formats and encodings
-- **Error Handling:** Robust error management and user feedback
+- **Frontend:** React.js with modern JavaScript (ES6+) and responsive CSS
+- **Backend:** Node.js server with npm package management
+- **Containerization:** Docker containers for both frontend and backend
+- **Build Process:** npm build system for production-ready frontend
+- **Development Workflow:** Docker Compose for local development environment
 
 **Learning Objectives:**
-- Advanced Go programming patterns
-- Web server development
-- Algorithm design and optimization
-- User interface design
-- System architecture principles
+- Full-stack web development with React and Node.js
+- Docker containerization and deployment
+- Modern JavaScript development practices
+- Frontend-backend integration
+- DevOps and container orchestration
 
-**Repository:** [kukaseone](https://github.com/codewithravikant/kukaseone)
+**Repository:** [kukaseon](https://github.com/codewithravikant/kukaseon)
 
 ## Core Skills
 
