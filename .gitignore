@@ -10,9 +10,9 @@ NETWORK_DEPLOYMENT.md
 to be update/**/*.md
 
 # Project folders (separate repositories)
-alpha-jail-project/
-racetrack-project/
-ts-sprint-project/
+locked-alphabet/
+run-for-speed/
+typescript-advanced-exercises/
 
 # Node modules
 node_modules/

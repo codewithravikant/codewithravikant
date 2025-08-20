@@ -69,9 +69,9 @@ A sophisticated real-time racetrack information system that manages races and in
 - Event-driven architecture
 - User authentication and access control
 
-**Repository:** [racetrack](https://github.com/codewithravikant/racetrack)
+**Repository:** [RunforSpeed](https://github.com/codewithravikant/racetrack)
 
-### **Alpha Jail** | Interactive JavaScript Game
+### **Locked Alphabet** | Interactive JavaScript Game
 A fun and interactive JavaScript game where you can create characters and "jail" them in a designated zone.
 
 **Key Features:**
@@ -94,7 +94,7 @@ A fun and interactive JavaScript game where you can create characters and "jail"
 - CSS positioning and styling
 - Game development concepts
 
-**Repository:** [alpha-jail](https://github.com/codewithravikant/alpha-jail)
+**Repository:** [locked-alphabet](https://github.com/codewithravikant/locked-alphabet)
 
 ### **Art Decoder & Encoder** | Go Backend Application
 A sophisticated text compression application demonstrating advanced Go programming concepts and system design.
