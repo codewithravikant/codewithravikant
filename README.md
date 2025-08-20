@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 
 ## About Me
 
-* 🏫 **former student** of **[kood/Sisu](https://koodsisu.fi/)** — 24-month intensive coding program graduate
-* 🐹 started with Go, now building with JavaScript & Python too
-* 📚 completed **Piscine Helsinki** — intensive coding bootcamp graduate
-* 🚀 currently learning **advanced Go patterns** & **cloud technologies**
-* 🌐 exploring **web development** and **system architecture**
-* 🎯 growing in the coding world with a focus on **backend development**
+* **former student** of **[kood/Sisu](https://koodsisu.fi/)** — 24-month intensive coding program graduate
+*  started with Go, now building with JavaScript & Python too
+*  completed **Piscine Helsinki** — intensive coding bootcamp graduate
+*  currently learning **advanced Go patterns** & **cloud technologies**
+*  exploring **web development** and **system architecture**
+*  growing in the coding world with a focus on **backend development**
 
 ## Stats
 
