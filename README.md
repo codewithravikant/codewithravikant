@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and buildin
 
 ## About Me
 
-* **Former student** of **[kood/Sisu](https://koodsisu.fi/)** — 24-month intensive coding program graduate
-* Started with Go, now building with JavaScript & Python too
-* Completed **Piscine Helsinki** — intensive coding bootcamp graduate
-* Currently learning **advanced Go patterns** & **cloud technologies**
-* Exploring **web development** and **system architecture**
-* Growing in the coding world with a focus on **backend development**
+* **former student** of **[kood/Sisu](https://koodsisu.fi/)** — 24-month intensive coding program graduate
+*  started with Go, now building with JavaScript & Python too
+*  completed **Piscine Helsinki** — intensive coding bootcamp graduate
+*  currently learning **advanced Go patterns** & **cloud technologies**
+*  exploring **web development** and **system architecture**
+*  growing in the coding world with a focus on **backend development**
 
 ## Stats
 
@@ -34,15 +34,38 @@ Achievement: Pull Shark
 * **Development Tools:** VS Code, Docker, Unix command-line tools
 * **Operating Systems:** Linux, Ubuntu, macOS
 * **Cloud & DevOps:** Docker, CI/CD, Cloud deployment (learning)
-* **Specializations:** AI, Cyber Security, Blockchain (kood/Sisu curriculum)
+* **Specializations:** Genrative AI and prompt engineering(kood/Sisu curriculum)
 
 ## Projects
-
-Soon I'll add more of my projects - now my GitHub profile is growing - working on it!
 
 Some of my repositories are private due to school policy — happy to share them on request!
 
 *Note: Graduated from [kood/Sisu](https://koodsisu.fi/) 24-month intensive coding program, specializing in full-stack development and modern web technologies.*
+
+### **FitNexus (Chat Assistant)** | AI Wellness Full-Stack Application
+A production-grade wellness platform that turns user profiles, habits, and daily signals into personalized health plans — powered by an AI coach with validated function calling and vector-based recipe retrieval.
+
+**Key Features:**
+- **AI Wellness Assistant:** Multi-turn conversational coach at `/assistant` — BMI, nutrition intake, meal plans, recipes, and progress charts via 6 scoped data tools
+- **Daily Top 3 Plan:** AI-generated movement, nutrition, and mindfulness actions with persistent completion tracking
+- **Multi-goal Onboarding:** Personalized strategy from 1–3 wellness goals with preserve mode for burnout recovery
+- **Nutrition & RAG:** 500+ recipe/ingredient catalog with pgvector semantic search, allergy-aware filtering, and community reviews
+- **Observation Layer:** Encrypted check-in summaries (food, water, sleep, stress) — AI uses aggregates, not raw sensitive events
+- **Authentication & Security:** Email/password, GitHub/Google OAuth, TOTP 2FA, field encryption, and JSON data export
+
+**Technical Implementation:**
+- **Frontend:** Next.js 16, React 19, TypeScript 5, Tailwind CSS 4, Framer Motion, Three.js (3D wellness orb)
+- **Backend:** Next.js API routes, Auth.js / NextAuth 5, Prisma 7 with PostgreSQL 16 (pgvector)
+- **AI Integration:** OpenRouter API with task-level model routing, prompt verification, and conversation summarization
+- **Testing & DevOps:** 207 unit tests (node:test), Playwright E2E, GitHub Actions CI, Docker multi-stage builds
+
+**Learning Objectives:**
+- Generative AI integration with function calling and hallucination guardrails
+- RAG pipeline design with vector embeddings and semantic retrieval
+- Full-stack auth (OAuth, 2FA, encrypted fields) and privacy-by-design data flows
+- Production testing tiers (unit, integration, E2E) and containerized deployment
+
+**Repository:** [chat-assistant](https://github.com/codewithravikant/chat-assistant)
 
 ### **Beachside Racetrack Real-time System** | Node.js Full-Stack Application
 A sophisticated real-time racetrack information system that manages races and informs spectators with multiple interfaces for different user personas.
