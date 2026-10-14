@@ -142,32 +142,6 @@ A fun and interactive JavaScript game where you can create characters and "jail"
 
 **Repository:** [locked-alphabet](https://github.com/codewithravikant/locked-alphabet)
 
-### **kukaseon** | Full-Stack Web Application
-A modern full-stack web application built with React frontend and Node.js backend, demonstrating full-stack development skills and Docker containerization.
-
-**Key Features:**
-- **Full-Stack Architecture:** Separate frontend and backend with clear separation of concerns
-- **Modern Frontend:** React-based user interface with responsive design
-- **Backend API:** Node.js server providing robust backend services
-- **Containerization:** Docker and Docker Compose for easy deployment and development
-- **Profile Project:** Showcases full-stack development capabilities
-
-**Technical Implementation:**
-- **Frontend:** React.js with modern JavaScript (ES6+) and responsive CSS
-- **Backend:** Node.js server with npm package management
-- **Containerization:** Docker containers for both frontend and backend
-- **Build Process:** npm build system for production-ready frontend
-- **Development Workflow:** Docker Compose for local development environment
-
-**Learning Objectives:**
-- Full-stack web development with React and Node.js
-- Docker containerization and deployment
-- Modern JavaScript development practices
-- Frontend-backend integration
-- DevOps and container orchestration
-
-**Repository:** [kukaseon](https://github.com/codewithravikant/kukaseon)
-
 ## Core Skills
 
 * **Problem Solving:** Analytical thinking and systematic approach to challenges
