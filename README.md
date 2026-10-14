@@ -1,15 +1,15 @@
 # Hi there! I'm Ravikant.
 
-Welcome to my GitHub profile! I'm passionate about coding, learning, and building efficient, scalable applications that solve real-world problems. Here you'll find a collection of projects and repositories that reflect my journey in the exciting world of programming.
+Welcome to my GitHub profile! I'm a full-stack developer in Helsinki focusing on **DevOps** after completing generative AI work at kood/Sisu.
 
 ## About Me
 
-* **former student** of **[kood/Sisu](https://koodsisu.fi/)** — 24-month intensive coding program graduate
-*  started with Go, now building with JavaScript & Python too
-*  completed **Piscine Helsinki** — intensive coding bootcamp graduate
-*  currently learning **advanced Go patterns** & **cloud technologies**
-*  exploring **web development** and **system architecture**
-*  growing in the coding world with a focus on **backend development**
+* **Student** at **[kood/Sisu](https://koodsisu.fi/)** — 24-month software programme (graduating January 2027)
+* **Generative AI completed** (FitNexus) — now **continuing with DevOps**
+* Building with TypeScript, JavaScript, Go, Python, and Bash
+* Completed **Piscine Helsinki** — intensive C bootcamp
+* Hands-on with multi-VM labs, Ansible, Jenkins CI/CD, Docker, and Linux hardening
+* Next: Kubernetes, GitOps, and Terraform
 
 ## Stats
 
@@ -26,21 +26,44 @@ Achievement: Pull Shark
 
 ## Technical Skills
 
-* **Programming Languages:** Go, JavaScript, Python, C, TypeScript
-* **Web Development:** HTML/CSS, REST APIs, Responsive Design, React.js
-* **Backend Frameworks:** Go HTTP Server, Node.js, Express.js
-* **Database & Storage:** SQL, PostgreSQL, MongoDB, JSON, File-based storage
-* **Version Control:** Git, GitHub, Collaborative development
-* **Development Tools:** VS Code, Docker, Unix command-line tools
+* **Programming Languages:** TypeScript, JavaScript, Go, Python, C, Bash, SQL
+* **Frontend:** React, Next.js, HTML/CSS, Tailwind CSS
+* **Backend & Data:** Node.js, Express, REST APIs, Socket.IO, PostgreSQL, Prisma, MongoDB
+* **DevOps:** Linux/Unix, Docker, Vagrant, Ansible, Jenkins, CI/CD, GitHub Actions, Nginx, Make, SSH/UFW, Trivy
+* **Continuing — DevOps:** Kubernetes, Helm, ArgoCD, Terraform, Prometheus, Grafana, ELK, GitOps
+* **AI (completed track):** Prompt design, function calling, RAG, pgvector
 * **Operating Systems:** Linux, Ubuntu, macOS
-* **Cloud & DevOps:** Docker, CI/CD, Cloud deployment (learning)
-* **Specializations:** Genrative AI and prompt engineering(kood/Sisu curriculum)
 
 ## Projects
 
 Some of my repositories are private due to school policy — happy to share them on request!
 
-*Note: Graduated from [kood/Sisu](https://koodsisu.fi/) 24-month intensive coding program, specializing in full-stack development and modern web technologies.*
+*CV:* [Ravikant-CV](https://github.com/codewithravikant/Ravikant-CV)
+
+### **Automation-VMs** | Multi-VM DevOps Lab
+
+Diagnostic app on a hardened six-VM Ubuntu lab: containerized frontend/backend behind nginx, dedicated backup host, plus **Ansible + Jenkins CI/CD** on a `cicd` VM.
+
+**Key Features:**
+- **Six-VM topology:** load balancer, web1/web2, appserver, backup, and cicd (Jenkins + local Docker registry)
+- **Idempotent Ansible:** SSH hardening, UFW, Docker, nginx load balancing, automated backups/restore
+- **Jenkins CI/CD:** lint, audit, Trivy scans, deploy, rollback, optional Slack alerts
+- **Load balancing:** weighted round-robin, least-conn, and resource-based algorithms
+- **App:** React + Express diagnostics UI with live metrics behind the LB
+
+**Technical Implementation:**
+- **Infra:** Vagrant, VirtualBox, Make, Ansible, Bash provisioning
+- **CI/CD:** Jenkins, local registry, Jenkinsfile deploy + rollback pipelines
+- **Runtime:** Docker containers, nginx reverse proxy / LB
+- **Security:** SSH key-only, UFW deny-by-default, review tests; optional Fail2Ban / WireGuard / Netdata
+
+**Learning Objectives:**
+- Multi-host Linux lab automation and hardening
+- Ansible idempotency and role-based provisioning
+- Jenkins pipelines with scan → deploy → rollback
+- Backup/restore and load-balancing operations
+
+**Repository:** [Automation-vms](https://github.com/codewithravikant/Automation-vms)
 
 ### **FitNexus (Chat Assistant)** | AI Wellness Full-Stack Application
 A production-grade wellness platform that turns user profiles, habits, and daily signals into personalized health plans — powered by an AI coach with validated function calling and vector-based recipe retrieval.
@@ -152,14 +175,15 @@ A modern full-stack web application built with React frontend and Node.js backen
 * **Collaboration:** Team-oriented development with clear communication
 * **Code Quality:** Clean, maintainable code with proper documentation
 * **Testing & Debugging:** Systematic approach to finding and fixing issues
-* **Performance Optimization:** Focus on efficient algorithms and system design
-* **kood/Sisu graduate**
+* **DevOps focus:** After generative AI completion, continuing with infrastructure, CI/CD, and cloud-native tooling
+* **kood/Sisu student** — graduating January 2027
 
 ## Let's Connect!
 
 * **LinkedIn:** [Ravikant Pandit](https://www.linkedin.com/in/ravikant-pandit/)
 * **Email:** [codewithravikant@gmail.com](mailto:codewithravikant@gmail.com)
 * **GitHub:** [@codewithravikant](https://github.com/codewithravikant)
+* **CV:** [Ravikant-CV](https://github.com/codewithravikant/Ravikant-CV)
 
 ---
 
