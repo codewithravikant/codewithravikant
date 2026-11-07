@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a full-stack developer in Helsinki focusing on
 * **Generative AI completed** (FitNexus) — now **continuing with DevOps**
 * Building with TypeScript, JavaScript, Go, Python, and Bash
 * Completed **Piscine Helsinki** — intensive C bootcamp
-* Hands-on with multi-VM labs, Ansible, Jenkins CI/CD, Docker, and Linux hardening
-* Next: Kubernetes, GitOps, and Terraform
+* Hands-on with Minikube, Helm, multi-VM labs, Ansible, Jenkins CI/CD, Docker, and Linux hardening
+* Next: GitOps (ArgoCD) and Terraform
 
 ## Stats
 
@@ -26,8 +26,8 @@ Achievement: Pull Shark
 * **Programming Languages:** TypeScript, JavaScript, Go, Python, C, Bash, SQL
 * **Frontend:** React, Next.js, HTML/CSS, Tailwind CSS
 * **Backend & Data:** Node.js, Express, REST APIs, Socket.IO, PostgreSQL, Prisma, MongoDB
-* **DevOps:** Linux/Unix, Docker, Vagrant, Ansible, Jenkins, CI/CD, GitHub Actions, Nginx, Make, SSH/UFW, Trivy
-* **Continuing — DevOps:** Kubernetes, Helm, ArgoCD, Terraform, Prometheus, Grafana, ELK, GitOps
+* **DevOps:** Linux/Unix, Docker, Kubernetes, Minikube, Helm, Vagrant, Ansible, Jenkins, CI/CD, GitHub Actions, Nginx, Make, SSH/UFW, Trivy, Prometheus, Grafana, EFK
+* **Continuing — DevOps:** ArgoCD, Terraform, GitOps
 * **AI (completed track):** Prompt design, function calling, RAG, pgvector
 * **Operating Systems:** Linux, Ubuntu, macOS
 
@@ -36,6 +36,36 @@ Achievement: Pull Shark
 Some of my repositories are private due to school policy — happy to share them on request!
 
 *CV:* [Ravikant-CV](https://github.com/codewithravikant/Ravikant-CV)
+
+### **kubernetesCluster** | Kubernetes Cluster Chronicles
+
+A containerized diagnostic app on a local **Minikube** cluster: Deployments, Services, Ingress, PV/PVC, HPA, in-cluster Jenkins CI/CD, Prometheus/Grafana, and EFK logging.
+
+**Key Features:**
+
+- **Four namespaces:** `app` (backend + frontend + Ingress + HPA), `monitoring` (kube-prometheus-stack), `logging` (Elasticsearch, Fluent Bit, Kibana), `cicd` (Jenkins + local registry)
+- **Traffic path:** browser → Ingress (`chronicles.local`) → frontend (2 replicas) → backend Service
+- **Observability:** Prometheus ServiceMonitors, ingress-nginx and blackbox probes, Grafana, Alertmanager, Fluent Bit → Elasticsearch → Kibana
+- **In-cluster CI/CD:** Jenkins, Kaniko builds, Trivy gate on CRITICAL findings, `kubectl` rollout and rollback
+- **Operator dashboard:** cluster overview plus an Observe page for Grafana, Prometheus, Kibana, and Jenkins
+- **App:** React + Vite frontend and Express diagnostics API with custom metric `chronicles_diagnostic_polls_total`
+
+**Technical Implementation:**
+
+- **Cluster:** Minikube (4 vCPU / 10 GB / 40 GB disk), kubectl, Helm; `make chronicles` installs missing CLIs
+- **Workloads:** Deployments, Services, Ingress, HPA (frontend min 2, CPU 60%), PV/PVC
+- **CI/CD:** in-cluster Jenkins, Kaniko, Trivy, local registry, Jenkinsfile and rollback pipeline
+- **Monitoring:** kube-prometheus-stack, Alertmanager, EFK
+- **Ops:** Make targets for bring-up, status, app-verify, dashboard, and rollback
+
+**Learning Objectives:**
+
+- Kubernetes workloads, networking (Services, Ingress, NetworkPolicy), and storage
+- In-cluster Jenkins with image scan, deploy, and rollback
+- Metrics, logs, and alerts on a local Minikube profile
+- One-click cluster bring-up and operator-dashboard verification
+
+**Repository:** [kubernetesCluster](https://github.com/codewithravikant/kubernetesCluster)
 
 ### **devops-monitoring** | Multi-VM Monitoring & Observability Lab 
 

@@ -13,6 +13,7 @@ to be update/**/*.md
 locked-alphabet/
 run-for-speed/
 typescript-advanced-exercises/
+cluster-chronicles/
 
 # Node modules
 node_modules/
