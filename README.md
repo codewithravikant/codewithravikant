@@ -1,6 +1,14 @@
 # Hi there! I'm Ravikant.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=FE428E&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+Helsinki;DevOps+%26+Cloud-Native;TypeScript+%C2%B7+Go+%C2%B7+Python+%C2%B7+Bash" alt="Typing headline" />
+</p>
+
 Welcome to my GitHub profile! I'm a full-stack developer in Helsinki focusing on **DevOps** after completing generative AI work at kood/Sisu.
+
+<p align="center">
+  <img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=codewithravikant.codewithravikant&amp;left_text=Profile%20views&amp;left_color=555&amp;right_color=fe428e" />
+</p>
 
 ## About Me
 
@@ -13,13 +21,39 @@ Welcome to my GitHub profile! I'm a full-stack developer in Helsinki focusing on
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithravikant&show_icons=true&theme=radical)
+<!-- include_all_commits + count_private: show lifetime commits and private contributions when visible on your GitHub profile -->
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=codewithravikant&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&ring_color=fe428e" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=codewithravikant&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=codewithravikant&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithravikant&layout=compact&theme=radical)
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=codewithravikant&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+### Commits & activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/fe428e/codewithravikant" alt="GitHub contribution chart" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithravikant&theme=radical" alt="Most used languages by commits" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codewithravikant&theme=radical&utcOffset=2" alt="Productive time (UTC+2)" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithravikant&theme=radical" alt="Commit and contribution stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithravikant&theme=radical" alt="Repos per language" />
+</p>
 
 ## Achievements
 
-Achievement: Pull Shark
+<p align="center">
+  <a href="https://github.com/codewithravikant?achievement=pull-shark&tab=achievements">
+    <img width="96" height="96" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" />
+  </a>
+</p>
 
 ## Technical Skills
 
