@@ -53,6 +53,9 @@ Welcome to my GitHub profile! I'm a full-stack developer in Helsinki focusing on
   <a href="https://github.com/codewithravikant?achievement=pull-shark&tab=achievements">
     <img width="96" height="96" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" />
   </a>
+  <a href="https://github.com/codewithravikant?achievement=quickdraw&tab=achievements">
+    <img width="96" height="96" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" />
+  </a>
 </p>
 
 ## Technical Skills
